@@ -4,15 +4,15 @@ A simple, interactive basketball scoreboard application built with HTML, CSS, an
 
 ## 📋 Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Technologies Used](#technologies-used)
-- [Responsive Design](#responsive-design)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Demo]
+- [Features]
+- [Usage]
+- [File Structure]
+- [Technologies Used]
+- [Responsive Design]
+- [Contributing]
+- [License]
+- [Contact]
 
 ## 🎮 Demo
 
