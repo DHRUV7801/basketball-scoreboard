@@ -31,12 +31,6 @@ A simple, interactive basketball scoreboard application built with HTML, CSS, an
 - 🎨 **Digital Display Style** - Classic digital scoreboard aesthetic
 - ⚠️ **Input Validation** - Prevents scoring before team names are entered
 
-## 📸 Screenshots
-
-<!-- Add screenshots here -->
-```
-[Add screenshot of the basketball scoreboard interface]
-```
 
 ## 🚀 Installation
 
